@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Crime and Punishment",
-  "type": "text"
+  "type": "text",
+  "book_id": 680
 }
