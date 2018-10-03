@@ -1,0 +1,10 @@
+{
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "name": "Crime and Punishment",
+  "type": "text"
+}
